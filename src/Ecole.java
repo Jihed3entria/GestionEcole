@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /**
- * Created by MBI on 30/10/2017.
+ * Created by Jihed on 30/10/2017.
  */
 public class Ecole {
     private String site;
